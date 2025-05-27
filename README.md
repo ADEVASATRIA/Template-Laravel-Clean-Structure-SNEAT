@@ -80,8 +80,6 @@ resources/
   <pre><code>composer run dev</code></pre>
 </ol>
 
-<h2>🖼️ Preview / Thumbnail</h2>
-<p>Kamu bisa menambahkan screenshot tampilan admin dashboard di sini (contoh Sneat yang sudah dikustomisasi).</p>
 
 <h2>📎 Resources</h2>
 <ul>
