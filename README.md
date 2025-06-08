@@ -1,5 +1,5 @@
 <!-- README.md (HTML-like formatting) -->
-<h1 align="center">🚀 Laravel Clean Structure with Sneat</h1>
+<h1 align="center">🚀 Laravel Clean Structure with Snea</h1>
 
 <p align="center">
   Template Laravel dengan struktur bersih, modular, dan terintegrasi dengan <strong>Sneat Admin Dashboard</strong>.
